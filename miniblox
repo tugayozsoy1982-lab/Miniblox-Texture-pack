@@ -7552,7 +7552,7 @@ try {
                                     }
                                 n = n || {
                                     start: 0,
-                                    end: 0
+                                    end: null
                                 }
                             } else
                                 n = null;
